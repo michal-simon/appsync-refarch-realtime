@@ -1,0 +1,4 @@
+templates:
+  - "sam-app/*.yaml"
+include_checks:
+  - I
